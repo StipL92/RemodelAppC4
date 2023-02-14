@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+.divisor {
+    border-bottom: 0.5px solid #000000b3;
+}
+
+.nav-bar {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nLink {
+    text-decoration: none;
+    color: #2D2B29;
+}
+
+.homeF {
+    font-family: 'Poppins', sans-serif;
+}
+
+.centrar {
+    max-width: 85%;
+    margin: 0 auto;
+}
+
+.carruselh {
+    max-height: 500px;
+}
+
+.categoriasinicio h1 {
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000b3;
+}
+
+.containercategorias {
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tarjetasproductos {
+    max-width: 450px;
+    border: 1px solid #2D2B29;
+}
+
+.tarjetasproductos h3 {
+    font-weight: 500;
+    text-align: center;
+    color: #2D2B29;
+    font-size: 24px;
+}
+
+.tarjetasproductos img {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.tarjetasproductos a {
+    text-align: center;
+}
+
+.tarjetasproductos button {
+    margin: 0 auto;
+    width: 75%;
+    border: 1px solid #2D2B29;
+    background-color: white;
+    color: #2D2B29;
+    font-weight: 400;
+    font-size: 24px;
+    height: 50px;
+}
+
+.tarjetasproductos button:hover {
+    background-color: #C7A987;
+    color: white;
+}
+
+.productos {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.productos img {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #2D2B29;
+}
+
+.proveedor {
+    font-weight: 500;
+    font-size: 18px;
+    color: #2D2B29;
+}
+
+.tituloproducto {
+    font-weight: 500;
+    font-size: 21px;
+    color: #2D2B29;
+    line-height: 22px;
+}
+
+.descripcionproducto {
+    font-weight: 500;
+    font-size: 21px;
+    color: #2D2B29;
+    text-align: right;
+}
+
+.contactoproveedor {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    background-color: #32BA7C;
+    align-items: center;
+    border: none;
+}
+
+.contactoproveedor:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #1F8A59;
+}
+
+.containerproductos {
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.aNavBar {
+    font-weight: 500;
+    color: #0000008c;
+    text-decoration: none;
+}
+
+.aNavBar:hover {
+    color: #000000b3;
+}
+
+.aNavDrop {
+    color: #0000008c;
+    text-decoration: none;
+}
+

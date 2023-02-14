@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "slug_categoria": 1,
+            "Categoria": "Baños"
+        },
+        {
+            "slug_categoria": 2,
+            "Categoria": "Pisos"
+        },
+        {
+            "slug_categoria": 3,
+            "Categoria": "Cocina"
+        },
+        {
+            "slug_categoria": 4,
+            "Categoria": "Sala"
+        },
+        {
+            "slug_categoria": 5,
+            "Categoria": "Paredes"
+        }
+    ]
+}

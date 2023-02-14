@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+.dashboard {
+    font-family: 'Poppins', sans-serif;
+}
+
+.aDashboard {
+    text-decoration: none;
+    color: #2D2B29;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.aDashboard:hover {
+    color: #2D2B29;
+}
+
+.aTableCategorias {
+    text-decoration: none;
+    color: #C7A987;
+}
+
+.aTableCategorias:hover {
+    color: #C7A987;
+}
+
+.izq {
+    height: 100vh;
+    background: #C7A987;
+}
+
+.menulista {
+    list-style: none;
+    padding: 0px;
+}
+
+.menulista li {
+    width: 96%;
+    border-bottom: 1px solid #707070;
+    text-align: center;
+    padding-bottom: 6px;
+    padding-top: 15px;
+}
+
+.menulista li:hover {
+    border-bottom: 1px solid #F5EBE0;
+}
+
+.der h1 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #2D2B29;
+}
+
+.der h2 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #2D2B29;
+}
+
+.der button {
+    height: 60px;
+    border: none;
+    background-color: #32BA7C;
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.der button:hover {
+    background-color: #1F8A59;
+}
+
+.tableCategorias {
+    font-weight: 700;
+    font-size: 21px;
+    color: #2D2B29;
+}
+
+.edit {
+    color: #C7A987;
+}
+
+.edit:hover {
+    cursor: pointer;
+}
+
+.delete {
+    color: #eb4034;
+}
+
+.delete:hover {
+    cursor: pointer;
+}
+

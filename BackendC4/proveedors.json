@@ -1,0 +1,103 @@
+{
+    "proveedors": [
+        {
+            "slug_prooveedor": 1,
+            "proveedor": "Baños PO",
+            "ciudad": "Cali",
+            "direccion": "Cra 12 No. 25 30",
+            "telefono": "4497802",
+            "whatsapp": "3154287870",
+            "cslug_po": "banospo@hotmail.com"
+        },
+        {
+            "slug_proveedor": 2,
+            "proveedor": "Baños JR",
+            "ciudad": "Barranquilla",
+            "direccion": "Cra 12 No. 47 87",
+            "telefono": "5474125",
+            "whatsapp": "3125489863",
+            "correo": "banosjr@gmail.com"
+        },
+        {
+            "slug_proveedor": 3,
+            "proveedor": "Carpinteria QW",
+            "ciudad": "Pereira",
+            "direccion": "Cra 11 No. 28 30",
+            "telefono": "2751212",
+            "whatsapp": "3171478114",
+            "correo": "carpinteriaqw@gmail.com"
+        },
+        {
+            "slug_proveedor": 4,
+            "proveedor": "Carpinteria AQ",
+            "ciudad": "Bogota",
+            "direccion": "Calle 12 No. 27 30",
+            "telefono": "2754571",
+            "whatsapp": "3215472301",
+            "correo": "carpinteriaaq@gmail.com"
+        },
+        {
+            "slug_proveedor": 5,
+            "proveedor": "Cocinas MP",
+            "ciudad": "Cali",
+            "direccion": "Cra 7 No. 15 30",
+            "telefono": "4571474",
+            "whatsapp": "3178945678",
+            "correo": "cocinasmp@gmail.com"
+        },
+        {
+            "slug_proveedor": 6,
+            "proveedor": "Cocinas RA",
+            "ciudad": "Barranquilla",
+            "direccion": "Cra 2 No. 12 29",
+            "telefono": "4582145",
+            "whatsapp": "3154712569",
+            "correo": "cocinasra@gmail.com"
+        },
+        {
+            "slug_proveedor": 7,
+            "proveedor": "Pinturas CR",
+            "ciudad": "Palmira",
+            "direccion": "Cra 10 No. 78 45",
+            "telefono": "2741412",
+            "whatsapp": "3187452102",
+            "correo": "pinturascr@hotmail.com"
+        },
+        {
+            "slug_proveedor": 8,
+            "proveedor": "Pinturas JN",
+            "ciudad": "Pereira",
+            "direccion": "Cra 18 No. 35 20",
+            "telefono": "3141025",
+            "whatsapp": "3123120254",
+            "correo": "pinturasjn@hotmail.com"
+        },
+        {
+            "slug_proveedor": 9,
+            "proveedor": "Pisos SL",
+            "ciudad": "Pereira",
+            "direccion": "Clle 29 No. 25 25",
+            "telefono": "4171215",
+            "whatsapp": "3165412058",
+            "correo": "pisossl@gmail.com"
+        },
+        {
+            "slug_proveedor": 10,
+            "proveedor": "Pisos OR",
+            "ciudad": "Bogota",
+            "direccion": "Cra 19 No. 71 25",
+            "telefono": "2542514",
+            "whatsapp": "3164712502",
+            "correo": "pisosor@gmail.com"
+        },
+        {
+            "slug_proveedor": 15,
+            "proveedor": "Baños AV",
+            "ciudad": "Valledupar",
+            "direccion": "Cra 19 #1 - 50",
+            "telefono": "5700505",
+            "whatsapp": "3103103131",
+            "correo": "test@mail.com"
+        }
+    ]
+}
